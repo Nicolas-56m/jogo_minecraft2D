@@ -1,43 +1,21 @@
-
 # ⛏️ Blocos 2D
 
-Um pequeno jogo de sobrevivência e construção inspirado no estilo clássico de Minecraft, desenvolvido com HTML, CSS e JavaScript puro.
-
-Explore um mundo de blocos, colete recursos, construa estruturas e aproveite o ciclo de dia e noite!
+Jogo de sobrevivência e construção em 2D, inspirado no estilo clássico de Minecraft, desenvolvido com HTML, CSS e JavaScript.
 
 ## 🎮 Sobre o jogo
 
-Blocos 2D é um jogo em pixel art onde você pode explorar um mundo gerado por código, quebrar blocos, coletar materiais e construir livremente.
-
-O projeto foi desenvolvido para ser leve, simples e funcionar diretamente no navegador, sem precisar instalar bibliotecas.
+Explore um mundo de blocos, colete recursos, construa estruturas e aproveite o ciclo de dia e noite em um jogo com estilo pixel art.
 
 ## ✨ Funcionalidades
 
-- 🌳 Árvores e vegetação.
+- 🌳 Árvores, vegetação e montanhas.
 - 🌎 Mundo com 240 blocos de largura.
-- ⛰️ Montanhas e cavernas.
-- 🪨 Diferentes tipos de blocos.
+- ⛰️ Cavernas e diferentes tipos de blocos.
 - 🌞 Ciclo de dia e noite.
-- 🌙 Céu com estrelas e lua.
-- ⛏️ Sistema de mineração.
-- 🧱 Sistema de construção.
+- ⛏️ Sistema de mineração e construção.
 - 🎒 Inventário com 7 espaços.
 - 🚶 Personagem com animação.
-- 🎨 Texturas pixel art geradas por código.
-- ⚡ Desempenho leve no navegador.
-
-## 🧱 Blocos disponíveis
-
-| Bloco | Nome |
-|---|---|
-| 🟩 | Grama |
-| 🟫 | Terra |
-| ⬜ | Pedra |
-| 🪵 | Madeira |
-| 🌿 | Folhas |
-| 🟨 | Tábuas |
-| ⚫ | Carvão |
-| 🟡 | Areia |
+- 🎨 Texturas em pixel art.
 
 ## 🎮 Controles
 
@@ -51,27 +29,13 @@ O projeto foi desenvolvido para ser leve, simples e funcionar diretamente no nav
 | 1 até 7 | Selecionar bloco |
 | Roda do mouse | Trocar bloco |
 
-## 🚀 Como jogar
+## 📁 Arquivos do projeto
 
-1. Baixe ou clone este repositório.
-2. Abra a pasta do projeto.
-3. Abra o arquivo `index.html` no navegador.
-4. Divirta-se explorando e construindo!
+**Os códigos estão disponíveis nos arquivos e pastas acima deste README.**
 
-Não é necessário instalar dependências ou configurar um servidor.
-
-## 📁 Estrutura do projeto
-
-### Os código estão nos arquivos acima!
-
-```text
-Blocos-2D/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+- `index.html`
+- `style.css`
+- `script.js`
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -80,23 +44,15 @@ Blocos-2D/
 - JavaScript
 - Canvas API
 
-## 💻 Compatibilidade
+## 💻 Desenvolvimento
 
-O jogo foi desenvolvido para navegadores modernos, como:
+Projeto desenvolvido no **Visual Studio Code (VS Code)**, utilizando tecnologias web e sem bibliotecas externas.
 
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
+## 🚀 Como jogar
 
-## 📌 Objetivo do projeto
-
-Criar um jogo 2D de blocos inspirado em Minecraft, utilizando apenas tecnologias web, com foco em simplicidade, diversão e desempenho.
-
-## Créditos
-
-Desenvolvido como projeto independente e experimental.
-
-Se gostou do projeto, deixe uma ⭐ no repositório!
+1. Baixe ou clone o repositório.
+2. Abra a pasta do projeto e coloque os files no VScode.
+3. Execute o arquivo `index.html` no navegador.
 
 ---
 
